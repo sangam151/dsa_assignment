@@ -142,29 +142,3 @@ Max Heap:
 
 ---
 
-## 🚀 Key Concepts Demonstrated
-
-- Heap data structure
-- Array representation of binary tree
-- Heapify algorithm
-- Building Min Heap
-- Building Max Heap
-- Efficient bottom-up heap construction (O(n) time complexity)
-
----
-
-## 📚 Time Complexity
-
-- **Building Min Heap:** O(n)
-- **Building Max Heap:** O(n)
-- **Heapify Operation:** O(log n)
-
----
-
-## 👨‍💻 Author
-
-Sangam Poudel  
-Kathmandu University
-
----
-
